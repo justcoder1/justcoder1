@@ -1,8 +1,5 @@
 <img src="https://github.com/justcoder1/justcoder1/blob/main/GitHub Banner.png" width="900">
 
-### Justin Heath
-Full-stacker developer learning with aim to help others from my learning.
-
 ### Skills
 * HTML
 * CSS
