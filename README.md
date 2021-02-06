@@ -10,9 +10,9 @@
 * React.js
 
 ### Social
-<a target="_blank" href="http://www.justcoder.fun">www.justcoder.fun</a>
+<a href="http://www.justcoder.fun" target="_blank">www.justcoder.fun</a>
 <br>
-<a target="_blank" href="https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA">YouTube Channel</a>
+<a href="https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA" target="_blank">YouTube Channel</a>
 
 ### Hi there 👋
 - 🔭 I’m currently working on full-stack developer.
