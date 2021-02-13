@@ -3,7 +3,7 @@
 # Welcome
 <p>Technically proficient software engineer focused on creating meaningful UI experiences backed up with latest methods for efficiency and storing data of the highest quality.  Over 6 year’s experience of working with stakeholders, developing innovative solutions to produce absorbing content whilst maintaining a concrete relationship.</p>
 
-# Skills
+### Skills
 * ⚛ React
 * 🥾 Bootstrap
 * 💻 HTML, CSS, JS
