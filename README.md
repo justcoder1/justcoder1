@@ -1,23 +1,15 @@
 <img src="https://github.com/justcoder1/justcoder1/blob/main/GitHub Banner.png" width="900">
 
-### Skills
-* HTML
-* CSS
-* JavaScipt (including ES6)
-* Bootstrap
-* npm
-* Node.js
-* React.js
+# Welcome
+<p>Technically proficient software engineer focused on creating meaningful UI experiences backed up with latest methods for efficiency and storing data of the highest quality.  Over 6 year’s experience of working with stakeholders, developing innovative solutions to produce absorbing content whilst maintaining a concrete relationship.</p>
+
+## Skills
+* ⚛ React
+* 🥾 Bootstrap
+* 💻 HTML, CSS, JS
 
 ### Social
-<a href="http://www.justcoder.fun" target="_blank">www.justcoder.fun</a>
-<br>
-<a href="https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA" target="_blank">YouTube Channel</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/justcoder1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/justin-heath-769b1581//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.justcoder.fun) 
 
-### Hi there 👋
-- 🔭 I’m currently working on full-stack developer.
-- 🌱 I’m currently learning with Purplbeard coding Bootcamp.
-- 👯 I’m looking to collaborate on projects that help teaching code and/or the healthservice.
-- 🤔 I’m looking for help with EVERYTHING
+### Contact
 - 📫 How to reach me: <a href="mailto:justin@justcoder.fun">justin@justcoder.fun</a>
-- ⚡ Fun fact: When not tied to my desk you will find me up a mountain somewhere.
