@@ -6,7 +6,7 @@
 ### Skills
 * <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='20'> Angular
 * ⚛ React
-* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-red.svg' alt='node' height='20'> node.js
+* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node' height='20'> node.js
 * 🥾 Bootstrap
 * 💻 HTML, CSS, JS
 
