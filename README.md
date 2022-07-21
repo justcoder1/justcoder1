@@ -12,5 +12,5 @@
 
 ### Social
 [<img src='https://simpleicons.vercel.app/googlechrome/FF8659' alt='website' height='30'>](http://www.justcoder.co.uk) [<img src='https://simpleicons.vercel.app/linkedin/FF8659' alt='linkedin' height='30'>](https://www.linkedin.com/in/justcoder/) [<img src='https://simpleicons.vercel.app/youtube/FF8659' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA)
-<a href="https://github.com/justcoder1" target='_blank'><img src='https://simpleicons.vercel.app/github/FF8659' alt='github' height='30'></a>
+<a href="https://github.com/justcoder1" target="_blank"><img src='https://simpleicons.vercel.app/github/FF8659' alt='github' height='30'></a>
 <a href="mailto:just.coder@outlook.com"><img src='https://simpleicons.vercel.app/microsoftoutlook/FF8659' alt='mail' height='30'></a>
