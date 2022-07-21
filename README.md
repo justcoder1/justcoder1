@@ -6,7 +6,7 @@
 ### Skills
 * <img src='https://simpleicons.vercel.app/angular/FF0000' alt='angular' height='20'> Angular
 * <img src='https://simpleicons.vercel.app/react/61DBFB' alt='react' height='20'> React
-* <img src='https://simpleicons.vercel.app/node.js/215732' alt='node' height='20'> node.js
+* <img src='https://simpleicons.vercel.app/nodedotjs/215732' alt='node' height='20'> node.js
 * <img src='https://simpleicons.vercel.app/bootstrap/7952B3' alt='bootstrap' height='20'> Bootstrap
 * <img src='https://simpleicons.vercel.app/html5/7952B3' alt='html' height='20'> HTML, CSS, JS
 
