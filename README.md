@@ -11,8 +11,5 @@
 * <img src='https://simpleicons.vercel.app/microsoftsqlserver/000' alt='SQL' height='20'> SQL, <img src='https://simpleicons.vercel.app/postgresql/31648C' alt='postgresql' height='20'> Postgresql, <img src='https://simpleicons.vercel.app/mongodb/00684A' alt='MongoDB' height='20'> MongoDB
 
 ### Social
-<a href="http://www.justcoder.co.uk" target="_blank"><img src='https://simpleicons.vercel.app/googlechrome/FF8659' alt='website' height='30'></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/justcoder" target="_blank"><img src='https://simpleicons.vercel.app/linkedin/FF8659' alt='linkedin' height='30'></a> 
-&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA" target="_blank"><img src='https://simpleicons.vercel.app/youtube/FF8659' alt='YouTube' height='30'></a>
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/justcoder1" target="_blank"><img src='https://simpleicons.vercel.app/github/FF8659' alt='github' height='30'></a>
+<a href="http://www.justcoder.co.uk" target="_blank"><img src='https://simpleicons.vercel.app/googlechrome/FF8659' alt='website' height='30'></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/justcoder" target="_blank"><img src='https://simpleicons.vercel.app/linkedin/FF8659' alt='linkedin' height='30'></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA" target="_blank"><img src='https://simpleicons.vercel.app/youtube/FF8659' alt='YouTube' height='30'></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/justcoder1" target="_blank"><img src='https://simpleicons.vercel.app/github/FF8659' alt='github' height='30'></a>
 &nbsp;&nbsp;&nbsp;<a href="mailto:just.coder@outlook.com"><img src='https://simpleicons.vercel.app/microsoftoutlook/FF8659' alt='mail' height='30'></a>
