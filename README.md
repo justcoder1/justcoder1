@@ -4,7 +4,9 @@
 <p>Technically proficient software engineer focused on creating meaningful UI experiences backed up with latest methods for efficiency and storing data of the highest quality.  Over 6 year’s experience of working with stakeholders, developing innovative solutions to produce absorbing content whilst maintaining a concrete relationship.</p>
 
 ### Skills
+* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='10'> Angular
 * ⚛ React
+* 🥾 node.js
 * 🥾 Bootstrap
 * 💻 HTML, CSS, JS
 
