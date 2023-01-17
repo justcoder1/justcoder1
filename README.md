@@ -3,6 +3,8 @@
 # Welcome
 <p>Technically proficient software engineer focused on creating meaningful UI experiences backed up with latest methods for efficiency and storing data of the highest quality.  Over 10 year’s experience of working with stakeholders, developing innovative solutions to produce absorbing content whilst maintaining a concrete relationship.</p>
 
+<p>All my repo's are stored in organisations to help keen them organised, if you would like to view them please visit my organisations.</p>
+
 ### Skills
 * <img src='https://simpleicons.vercel.app/html5/DD4B25' alt='html' height='20'> HTML, <img src='https://simpleicons.vercel.app/css3/2965F1' alt='css' height='20'> CSS, <img src='https://simpleicons.vercel.app/javascript/EFD81D' alt='javascript' height='20'> JavaScript, <img src='https://simpleicons.vercel.app/typescript/3178C6' alt='typescript' height='20'> TypeScript, <img src='https://simpleicons.vercel.app/reactivex/B7178C' alt='RxJs' height='20'> RxJs, <img src='https://simpleicons.vercel.app/redux/764ABC' alt='NgRx' height='20'> Redux & NgRx
 * <img src='https://simpleicons.vercel.app/angular/FF0000' alt='angular' height='20'> Angular, <img src='https://simpleicons.vercel.app/react/61DBFB' alt='react' height='20'> React, <img src='https://simpleicons.vercel.app/bootstrap/7952B3' alt='bootstrap' height='20'> Bootstrap
