@@ -4,8 +4,8 @@
 <p>Technically proficient software engineer focused on creating meaningful UI experiences backed up with latest methods for efficiency and storing data of the highest quality.  Over 10 year’s experience of working with stakeholders, developing innovative solutions to produce absorbing content whilst maintaining a concrete relationship.</p>
 
 ### Skills
-* <img src='https://simpleicons.vercel.app/html5/DD4B25' alt='html' height='20'> HTML, <img src='https://simpleicons.vercel.app/css3/2965F1' alt='css' height='20'> CSS, <img src='https://simpleicons.vercel.app/javascript/EFD81D' alt='javascript' height='20'> JS, <img src='https://simpleicons.vercel.app/bootstrap/7952B3' alt='bootstrap' height='20'> Bootstrap
-* <img src='https://simpleicons.vercel.app/angular/FF0000' alt='angular' height='20'> Angular, <img src='https://simpleicons.vercel.app/react/61DBFB' alt='react' height='20'> React
+* <img src='https://simpleicons.vercel.app/html5/DD4B25' alt='html' height='20'> HTML, <img src='https://simpleicons.vercel.app/css3/2965F1' alt='css' height='20'> CSS, <img src='https://simpleicons.vercel.app/javascript/EFD81D' alt='javascript' height='20'> JavaScript, <img src='https://simpleicons.vercel.app/typescript/3178C6' alt='typescript' height='20'> TypeScript
+* <img src='https://simpleicons.vercel.app/angular/FF0000' alt='angular' height='20'> Angular, <img src='https://simpleicons.vercel.app/react/61DBFB' alt='react' height='20'> React, <img src='https://simpleicons.vercel.app/bootstrap/7952B3' alt='bootstrap' height='20'> Bootstrap
 * <img src='https://simpleicons.vercel.app/nodedotjs/215732' alt='node' height='20'> node.js
 * <img src='https://simpleicons.vercel.app/linux/000' alt='linux' height='20'> linux, <img src='https://simpleicons.vercel.app/ubuntu/D84715' alt='ubuntu' height='20'> ubuntu
 * <img src='https://simpleicons.vercel.app/microsoftsqlserver/000' alt='SQL' height='20'> SQL, <img src='https://simpleicons.vercel.app/postgresql/31648C' alt='postgresql' height='20'> Postgresql, <img src='https://simpleicons.vercel.app/mongodb/00684A' alt='MongoDB' height='20'> MongoDB
