@@ -1,6 +1,6 @@
 <img src="./GitHub Banner.png" width="900">
 
-# Welcome
+## Welcome
 <p>I’m a strong believer in engineering fundamentals — adhering to SOLID principles, maintaining clean architecture, challenging edge cases and ensuring consistency across the codebase. As an engineer, I continually ask: Is this secure? performant? scalable? — and have the experience to validate those questions through practical testing and design.</p>
 
 ## Skills
