@@ -1,17 +1,40 @@
-<img src="https://github.com/justcoder1/justcoder1/blob/main/GitHub Banner.png" width="900">
+<img src="./GitHub Banner.png" width="900">
 
 # Welcome
-<p>Technically proficient software engineer focused on creating meaningful UI experiences backed up with latest methods for efficiency and storing data of the highest quality.  Over 10 year’s experience of working with stakeholders, developing innovative solutions to produce absorbing content whilst maintaining a concrete relationship.</p>
-
-<p>All my repo's are stored in organisations to help keep them organised, if you would like to view them please visit my organisations.</p>
+<p>I’m a strong believer in engineering fundamentals — adhering to SOLID principles, maintaining clean architecture, challenging edge cases and ensuring consistency across the codebase. As an engineer, I continually ask: Is this secure? performant? scalable? — and have the experience to validate those questions through practical testing and design.</p>
 
 ### Skills
-* <img src='https://simpleicons.vercel.app/html5/DD4B25' alt='html' height='20'> HTML, <img src='https://simpleicons.vercel.app/css3/2965F1' alt='css' height='20'> CSS, <img src='https://simpleicons.vercel.app/javascript/EFD81D' alt='javascript' height='20'> JavaScript, <img src='https://simpleicons.vercel.app/typescript/3178C6' alt='typescript' height='20'> TypeScript, <img src='https://simpleicons.vercel.app/reactivex/B7178C' alt='RxJs' height='20'> RxJs, <img src='https://simpleicons.vercel.app/redux/764ABC' alt='NgRx' height='20'> Redux & NgRx
-* <img src='https://simpleicons.vercel.app/angular/FF0000' alt='angular' height='20'> Angular, <img src='https://simpleicons.vercel.app/react/61DBFB' alt='react' height='20'> React, <img src='https://simpleicons.vercel.app/bootstrap/7952B3' alt='bootstrap' height='20'> Bootstrap
-* <img src='https://simpleicons.vercel.app/nodedotjs/215732' alt='node' height='20'> node.js, <img src='https://simpleicons.vercel.app/express/000000' alt='express' height='20'> Express
-* <img src='https://simpleicons.vercel.app/linux/000' alt='linux' height='20'> linux, <img src='https://simpleicons.vercel.app/ubuntu/D84715' alt='ubuntu' height='20'> ubuntu
-* <img src='https://simpleicons.vercel.app/microsoftsqlserver/000' alt='SQL' height='20'> SQL, <img src='https://simpleicons.vercel.app/postgresql/31648C' alt='postgresql' height='20'> Postgresql, <img src='https://simpleicons.vercel.app/mongodb/00684A' alt='MongoDB' height='20'> MongoDB & Atlas & Mongoose
+<img src='./Assets/Skills/CSharp.svg' alt='CSharp' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/NET.svg' alt='NET' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/Angular.svg' alt='Angular' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/React.svg' alt='React' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/Node.svg' alt='website' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/JavaScript.svg' alt='JavaScript' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/TypeScript.svg' alt='TypeScript' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/HTML5.svg' alt='HTML5' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/CSS3.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/SQL.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/SQLite.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/MongoDB.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/Postman.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/Git.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/GitHub.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+<img src='./Assets/Skills/Azure_Devops.svg' alt='CSS3' height='30' style="margin-right: 10px"/>
+
 
 ### Social
-<a href="http://www.justcoder.co.uk" target="_blank"><img src='https://simpleicons.vercel.app/googlechrome/FF8659' alt='website' height='30'></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/justcoder" target="_blank"><img src='https://simpleicons.vercel.app/linkedin/FF8659' alt='linkedin' height='30'></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA" target="_blank"><img src='https://simpleicons.vercel.app/youtube/FF8659' alt='YouTube' height='30'></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/justcoder1" target="_blank"><img src='https://simpleicons.vercel.app/github/FF8659' alt='github' height='30'></a>
-&nbsp;&nbsp;&nbsp;<a href="mailto:just.coder@outlook.com"><img src='https://simpleicons.vercel.app/microsoftoutlook/FF8659' alt='mail' height='30'></a>
+<a href="http://www.justcoder.co.uk" target="_blank">
+    <img src='./Assets/globe.svg' alt='website' height='30' style="margin-right: 10px"/>
+</a>
+<a href="https://www.linkedin.com/in/justcoder" target="_blank">
+    <img src='./Assets/linkedin.svg' alt='linkedin' height='30' style="margin-right: 10px">
+</a>
+<a href="https://www.youtube.com/channel/UCkfQFx82Gcdo_QPNdBIBldA" target="_blank">
+    <img src='./Assets/youtube.svg' alt='YouTube' height='30' style="margin-right: 10px">
+</a>
+<a href="https://github.com/justcoder1" target="_blank">
+    <img src='./Assets/github.svg' alt='github' height='30' style="margin-right: 10px">
+</a>
+<a href="mailto:just.coder@outlook.com">
+    <img src='./Assets/mail.svg' alt='mail' height='30'>
+</a>
